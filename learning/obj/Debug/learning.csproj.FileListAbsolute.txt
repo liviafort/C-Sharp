@@ -1,0 +1,7 @@
+C:\Users\livia\Documents\CSHARP\learning\learning\bin\Debug\learning.exe.config
+C:\Users\livia\Documents\CSHARP\learning\learning\bin\Debug\learning.exe
+C:\Users\livia\Documents\CSHARP\learning\learning\bin\Debug\learning.pdb
+C:\Users\livia\Documents\CSHARP\learning\learning\obj\Debug\learning.csproj.AssemblyReference.cache
+C:\Users\livia\Documents\CSHARP\learning\learning\obj\Debug\learning.csproj.CoreCompileInputs.cache
+C:\Users\livia\Documents\CSHARP\learning\learning\obj\Debug\learning.exe
+C:\Users\livia\Documents\CSHARP\learning\learning\obj\Debug\learning.pdb

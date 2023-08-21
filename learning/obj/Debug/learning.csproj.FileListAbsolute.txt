@@ -5,3 +5,10 @@ C:\Users\livia\Documents\CSHARP\learning\learning\obj\Debug\learning.csproj.Asse
 C:\Users\livia\Documents\CSHARP\learning\learning\obj\Debug\learning.csproj.CoreCompileInputs.cache
 C:\Users\livia\Documents\CSHARP\learning\learning\obj\Debug\learning.exe
 C:\Users\livia\Documents\CSHARP\learning\learning\obj\Debug\learning.pdb
+C:\Users\himer\source\repos\C-Sharp\learning\bin\Debug\learning.exe.config
+C:\Users\himer\source\repos\C-Sharp\learning\bin\Debug\learning.exe
+C:\Users\himer\source\repos\C-Sharp\learning\bin\Debug\learning.pdb
+C:\Users\himer\source\repos\C-Sharp\learning\obj\Debug\learning.csproj.AssemblyReference.cache
+C:\Users\himer\source\repos\C-Sharp\learning\obj\Debug\learning.csproj.CoreCompileInputs.cache
+C:\Users\himer\source\repos\C-Sharp\learning\obj\Debug\learning.exe
+C:\Users\himer\source\repos\C-Sharp\learning\obj\Debug\learning.pdb

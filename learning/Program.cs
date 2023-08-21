@@ -127,5 +127,18 @@ namespace learning
             Console.Read(); //WAIT PUSH ENTER
         }
 
+        public static void DeclarationStatement()
+        {
+            
+            //List<double> xs = new(); INITIAL VALUE
+
+            //CONSTANTES
+            const string greeting = "Hello";
+            const double MinLimit = -10.0, MaxLimit = -MinLimit;
+            //if you use var the compiler will infer the type
+
+
+        }
+
     }
 }
